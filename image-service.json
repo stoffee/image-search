@@ -1,0 +1,6 @@
+{
+"service": {
+   "name": "image-service", 
+   "tags": ["cats"], 
+   "port": 8888}
+}
